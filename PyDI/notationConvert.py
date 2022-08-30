@@ -1,6 +1,7 @@
 # pydi v0.1
 # simple cli program for playing midi instruments in the terminal
 # notationConvert.py // functions for converting mido data into standard music notation
+# NOT USED
 
 chromatic2 = ["C", "C♯", "D♭", "D", "D♯", "E♭", "E", "F", "F♯", "G♭", "G", "G♯", "A♭", "A", "A♯", "B♭", "B"]             # chromatic scale with flats and sharps seperated
 chromaticScale = ["C", "D♭ / C♯", "D", "E♭ / D♯", "E", "F", "G♭ / F♯", "G", "A♭ / G♯", "A", "B♭ / A♯", "B"]              # chromatic scale with flats and sharps as same key
